@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@cyclic.sh/s3fs": "^1.2.8",
+    "dotenv": "^16.0.3"
+  }
 }
